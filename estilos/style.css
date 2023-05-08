@@ -130,7 +130,9 @@ body {
 }
 
 @media screen and (max-width: 1200px ) {
-    
+    body {
+        width: auto;
+    }
     .cabecalho {
         display: flex;
     }
