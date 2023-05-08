@@ -123,15 +123,6 @@ body {
     font-weight: 400;
 }
 
-.apresentacao__conteudo__curriculo{
-    width: 615px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px
-    font-size: 1.5rem;
-    font-family: var(--fonte-secundaria);
-}
-
 .apresentacao__links__link__curriculo {
     text-decoration: none;
     color: var(--cor-terciaria);
