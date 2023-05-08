@@ -133,11 +133,11 @@ body {
     
     .cabecalho {
         padding: 10%;
-        widht: auto;
     }
 
     .cabecalho__menu{
         justify-content: center;
+        widht: auto;
     }
     
     .apresentacao {
