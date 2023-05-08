@@ -132,8 +132,7 @@ body {
 @media screen and (max-width: 1080px ) {
  
     .cabecalho {
-         justify-content: center; 
-        display: flex;
+         padding: 10%
     }
 
     .cabecalho__menu{
