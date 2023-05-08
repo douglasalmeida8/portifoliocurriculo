@@ -30,7 +30,6 @@ body {
 .cabecalho__menu {
     display: flex;
     gap: 80px;
-    width: auto;
 }
 
 .cabecalho__menu__link {
@@ -133,7 +132,8 @@ body {
 @media (max-width: 1200px ) {
     
     .cabecalho {
-        padding: 10%;       
+        padding: 10%;
+        widht: auto;
     }
 
     .cabecalho__menu{
