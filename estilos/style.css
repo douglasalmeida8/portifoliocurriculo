@@ -132,8 +132,7 @@ body {
 @media screen and (max-width: 500px ) {
     
     .cabecalho {
-         display: flex;
-        widht: auto;
+        display: flex;
     }
 
     .cabecalho__menu{
