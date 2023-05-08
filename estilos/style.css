@@ -137,6 +137,7 @@ body {
 
     .cabecalho__menu{
         justify-content: center;
+        display: flex;
         widht: auto;
     }
     
