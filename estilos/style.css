@@ -24,7 +24,7 @@ body {
 
 .cabecalho {
     padding: 2% 0% 0% 15%;
-    display: flex;
+    width: auto;
 }
 
 .cabecalho__menu {
